@@ -1,13 +1,13 @@
 #DE-Kmeans
-×Ô¼ºĞ´µÄÓÃ²î·ÖÑİ»¯Ëã·¨ÓÅ»¯Kmeans¾ÛÀàµÄĞ¡³ÌĞò
-Ö¼ÔÚ½â¾öKmeans³õÖµÑ¡È¡²»µ±²úÉú¾Ö²¿×îÓÅ½âµÄÎÊÌâ
-ItemÀà´æ´¢´ı·ÖÀàÊı¾İ£¬°üÀ¨±êÇ©£¬ÏòÁ¿Êı¾İºÍ¾ÛÀà´úºÅ
-KmeansÀàÓÃÓÚ¾ÛÀà£¬Ìá¹©ÁËÒ»°ãKmeans·½·¨ºÍDEkmeans·½·¨
-TestK£¨£©·½·¨Ñ¡ÔñºÏÊÊµÄ¾ÛÀà¸öÊıK
+è‡ªå·±å†™çš„ç”¨å·®åˆ†æ¼”åŒ–ç®—æ³•ä¼˜åŒ–Kmeansèšç±»çš„å°ç¨‹åºã€‚
+æ—¨åœ¨è§£å†³Kmeansåˆå€¼é€‰å–ä¸å½“äº§ç”Ÿå±€éƒ¨æœ€ä¼˜è§£çš„é—®é¢˜ã€‚
+Itemç±»å­˜å‚¨å¾…åˆ†ç±»æ•°æ®ï¼ŒåŒ…æ‹¬æ ‡ç­¾ï¼Œå‘é‡æ•°æ®å’Œèšç±»ä»£å·ã€‚
+Kmeansç±»ç”¨äºèšç±»ï¼Œæä¾›äº†ä¸€èˆ¬Kmeansæ–¹æ³•å’ŒDEkmeansæ–¹æ³•ã€‚
+TestKï¼ˆï¼‰æ–¹æ³•é€‰æ‹©åˆé€‚çš„èšç±»ä¸ªæ•°Kã€‚
 
 #DE-Kmeans
 Differential evolution algorithm optimized K-Means Cluster algorithm,
 aimed at resolving initial improper selection produced local optima problem.
 Using Class Item to store data,including label,vec and cluster number.
-Class Kmeans is used to cluster£¬provides general Kmeans methods and DE-Kmeans methods.
+Class Kmeans is used to clusterï¼Œprovides general Kmeans methods and DE-Kmeans methods.
 Test () method to select the appropriate number of clusters.
